@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Victor Manuel
 
 
-I am a software developer passionate about creating and automating tools that solve problems and activities in the tasks that are entrusted to me every day. My main focus is web application development with [Laravel](https://laravel.com/) and also for [Moodle](https://moodle.com/).
+I am a software developer passionate about creating and automating tools that solve problems and activities in the tasks that are entrusted to me every day. My main focus is web application development with [PHP](https://php.com/) and also for [Moodle](https://moodle.com/).
 
 ### Things I code with
 <p>🧙‍♂️ Backend</p>
